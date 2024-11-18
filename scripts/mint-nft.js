@@ -39,6 +39,4 @@ async function mintNFT(tokenURI) {
   return txHash; // Return the transaction hash
 }
 
-mintNFT(
-  "https://aquamarine-written-termite-355.mypinata.cloud/ipfs/QmT47oJjBfs8HmcHaZcShWFN7uk1uXHMJzXjwV69GEoWaP"
-);
+mintNFT("YOUR-METADATA-URI");

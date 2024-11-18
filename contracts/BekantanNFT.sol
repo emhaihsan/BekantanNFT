@@ -12,6 +12,5 @@ contract BekantanNFT is ERC721URIStorage {
         uint256 tokenId = _nextTokenId++;
         _mint(recepient, tokenId);
         _setTokenURI(tokenId, tokenURI);
-        _nextTokenId++;
     }
 }
