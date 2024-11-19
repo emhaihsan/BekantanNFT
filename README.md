@@ -1,5 +1,3 @@
-i
-
 # **Bekantan NFT Project**
 
 ## **Overview**
